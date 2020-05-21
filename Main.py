@@ -10,8 +10,8 @@ def testFun():
     print('A new function added')
 	
 
-def FunStash():
-print('Stashing changes test...')
+def BugFix():
+print('Fixing the bug...')
 
 
 
