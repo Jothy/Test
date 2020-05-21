@@ -11,7 +11,7 @@ def testFun():
 	
 
 def FunStash():
-print('Stashing changes...')
+print('Stashing changes test...')
 
 
 
