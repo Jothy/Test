@@ -8,4 +8,8 @@ print('Testing2...')
 
 def testFun():
     print('A new function added')
+	
+
+def Fun2():
+print('Stashing changes...')
 
