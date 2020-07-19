@@ -1,0 +1,6 @@
+diff a/Main.py b/Main.py	(rejected hunks)
+@@ -0,0 +1,3 @@
++import numpy as np
++
++print('Testing...')
+\ No newline at end of file
